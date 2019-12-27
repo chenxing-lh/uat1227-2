@@ -1,0 +1,19 @@
+{
+  "appKey": "ofFUTv7q0m9jla91pB1c5fPU5zY0pX7u",
+  "appSecret": "aWzeDwU5DXjqzmuGrRutEalXbQkG0Ivc",
+  "projectId": "1157db38237888e544549b7a9342ab63",
+  "id": 187,
+  "name": "public",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chenxing-lh/uat1227-2.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "lh15627836616"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
